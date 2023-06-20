@@ -1,0 +1,11 @@
+ZONE			= "eu-de-1"
+VPC			    = "alint-vpc"
+SECURITYGROUP   = "alint-securitygroup"
+SUBNET		    = "alint-subnet"
+HOSTNAME		= "alint-01"
+PROFILE		    = "bx2-4x16"
+IMAGE			= "ibm-centos-7-6-minimal-amd64-1"
+RESOURCEGROUP   = "alint-resource-group-test"
+SSH_Keys         = ["r010-637a9656-1ee2-4276-9709-b58051e8a5d6"]
+SWAP			= "16"
+VOL1			= "10"
